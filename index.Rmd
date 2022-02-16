@@ -1,0 +1,19 @@
+---
+title: "Lindsey and Sophia's Joint Website"
+author: "Lindsey Forg"
+date: "2/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lindsey Forg & Sophia Openshaw's joint website!
+
+Our github accounts: 
+
+[Lindsey's](https://github.com/lindseyforg)
+[Sophia's](https://github.com/sophiaopenshaw)
+
+![We <3 Blue-Footed Boobies](/Users/lindseyforg/Desktop/NTRES 6100/assignment-3-lef77/07sci-boobies-social-facebookJumbo.jpg)
